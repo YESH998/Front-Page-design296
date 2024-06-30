@@ -60,7 +60,7 @@ p{
 @media (min-width:768px) {
     #container{
         width: 100vw;
-        height: 100vh;
+        height: 101vh;
     }
     
     #inhead{
