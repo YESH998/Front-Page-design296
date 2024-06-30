@@ -11,6 +11,7 @@ document.getElementById("footer").addEventListener("mouseleave", xyz);
 document.getElementById("headtext1").addEventListener("click",zxy1);
 document.getElementById("headtext2").addEventListener("click",zxy2);
 document.getElementById("headtext3").addEventListener("click",zxy3);
+document.getElementById("headtext3").addEventListener("click",zxy3);
 document.getElementById("headtext4").addEventListener("click",zxy4);
 
 function abc() {
